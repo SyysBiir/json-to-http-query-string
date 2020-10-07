@@ -6,7 +6,7 @@ const jsonToQuery = function (obj, prefix) {
           v = obj[p];
         str.push(
           v !== null && typeof v === "object"
-            ? serialize(v, k)
+            ? jsonToQuery(v, k)
             : encodeURIComponent(k) + "=" + encodeURIComponent(v)
         );
       }
