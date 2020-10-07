@@ -9,9 +9,7 @@ npm i json-to-http-query-string --save
 Use within your application with the following line of JavaScript:
 ```js
 const jsonToQuery = require('json-to-http-query-string');
-```
-Example:
-```js
+
 jsonToQuery({
   foo: "hi",
   bar: {
