@@ -1,5 +1,5 @@
 # JSON to HTTP Query string
-> This package allows you to convert JSON to Http query string.
+> This package allows you to convert JSON to Http query string
 
 ## Getting Started
 To install the module, run the following in the command line:
