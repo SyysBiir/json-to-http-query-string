@@ -1,6 +1,6 @@
 {
   "name": "json-to-http-query-string",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Convert JSON to HTTP Query string",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,11 @@
     "ajax",
     "fetch",
     "query",
-    "URLSearchParams"
+    "URLSearchParams",
+    "param",
+    "parser",
+    "object",
+    "string"
   ],
   "author": "Maxim Boyanov",
   "license": "ISC",
