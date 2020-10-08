@@ -1,6 +1,6 @@
 {
   "name": "json-to-http-query-string",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert JSON to HTTP Query string",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,16 @@
   "keywords": [
     "json",
     "http",
+    "https",
+    "convert",
+    "converter",
     "request",
     "data",
     "url",
     "website",
     "ajax",
     "fetch",
-    "request",
-    "http"
+    "query"
   ],
   "author": "Maxim Boyanov",
   "license": "ISC",
