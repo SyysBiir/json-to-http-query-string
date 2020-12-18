@@ -1,5 +1,6 @@
 # JSON to HTTP Query string
 > This package allows you to convert JSON to Http query string
+[![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/package/json-to-http-query-string)
 
 ## Getting Started
 To install the module, run the following in the command line:
